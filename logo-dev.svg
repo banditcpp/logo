@@ -37,6 +37,11 @@
          style="fill: #ffffff;"
          d="m 0,0 c 10.705328,-3.102711 15.759284,3.898838 23.638926,6.4475 -0.342552,3.995513 -9.655624,6.295796 -22.321803,6.315945 -6.5144793,0.32822 -8.6332183,-10.195459 -1.317123,-12.763445 z" />
     </g>
+    <g id="arrow" transform="scale(7)">
+      <path
+        style="fill-opacity: 0; stroke: #7aba7a; stroke-width: 0.5; stroke-linecap: butt; stroke-linejoin: miter;"
+        d="M -0.5,-1 l 1,1 -1,1" />
+    </g>
   </defs>
   <g id="layer1">
     <g transform="translate(50 50) scale(45)">
@@ -68,5 +73,10 @@
         <use xlink:href="#eye" transform="scale(-1 1)" />
       </g>
     </g>
+    <use xlink:href="#arrow" transform="translate(79 37)" />
+    <use xlink:href="#arrow" transform="translate(90 55) rotate(120)" />
+    <use xlink:href="#arrow" transform="translate(65 55) rotate(240)" />
+    <use xlink:href="#arrow" transform="translate(37 40) scale(1.5)" />
+    <use xlink:href="#arrow" transform="translate(15 57) scale(1.5) rotate(180)" />
   </g>
 </svg>
