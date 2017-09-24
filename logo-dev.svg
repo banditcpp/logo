@@ -31,6 +31,13 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs>
+    <g id="eye">
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.33669123px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 0,0 c 10.705328,-3.102711 15.759284,3.898838 23.638926,6.4475 -0.342552,3.995513 -9.655624,6.295796 -22.321803,6.315945 -6.5144793,0.32822 -8.6332183,-10.195459 -1.317123,-12.763445 z" />
+    </g>
+  </defs>
   <g id="layer1">
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -43,5 +50,11 @@
             -15,0 -15,-35 0,-35
           Z"
        id="glassesOutline" />
+    <g transform="translate(0 42)">
+      <use x="15" xlink:href="#eye" />
+      <g transform="translate(85 0)">
+        <use xlink:href="#eye" transform="scale(-1 1)" />
+      </g>
+    </g>
   </g>
 </svg>
