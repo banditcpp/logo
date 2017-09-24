@@ -34,14 +34,14 @@
   <defs>
     <g id="eye">
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.33669123px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill: #ffffff;"
          d="m 0,0 c 10.705328,-3.102711 15.759284,3.898838 23.638926,6.4475 -0.342552,3.995513 -9.655624,6.295796 -22.321803,6.315945 -6.5144793,0.32822 -8.6332183,-10.195459 -1.317123,-12.763445 z" />
     </g>
   </defs>
   <g id="layer1">
     <g transform="translate(50 50) scale(45)">
     <path
-      style="fill:#009900;fill-opacity:1;fill-rule:evenodd;"
+      style="fill: #028482;"
       d="M 0,-1
          L 0.866,-0.5
            0.866,0.5
@@ -52,7 +52,7 @@
       />
     </g>
     <path
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill: #b76eb8;"
        d="m 15,30
           c 10,0 15,5 35,5
             20,0 25,-5 35,-5
